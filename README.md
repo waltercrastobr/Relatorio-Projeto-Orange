@@ -1,4 +1,4 @@
-# Primeiro-Contato-com-Data-Science
+# Meu primeiro contato com Data Science
 
 Esses dois projetos foram realizados na disciplina de Introdução à Computação, em grupo com outras 4 pessoas: Guilherme Siqueira, Ivo Neto, Pedro Fischer e Nilton Szpak. Utilizamos a plataforma Orange Data Mining para analisar duas bases de dados: uma sobre Diagnóstico de Câncer e outra sobre Avaliação de Carros.
 
